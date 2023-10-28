@@ -6,3 +6,12 @@ h1 { text-align: center }
     background-position: center;
     background-size: cover;
   }
+
+  html { 
+      background: url("IMG/ParkerPlace/Blackberries.jpg") no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+
