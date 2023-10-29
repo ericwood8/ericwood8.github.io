@@ -2,7 +2,6 @@ h1 { text-align: center }
 
 .hero {
     background-color: #394046;
-    background-image: url("IMG/test2.jpg");
     background-position: center;
     background-size: cover;
   }
