@@ -7,7 +7,7 @@ h1 { text-align: center }
     background-size: cover;
   }
 
-  html { 
+html { 
     background: url("IMG/sky.jpg") center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
