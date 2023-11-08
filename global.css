@@ -1,4 +1,9 @@
-h1 { text-align: center }
+h1 { text-align: center;
+     font-family: arial;
+     font-size: 24px;
+     font-weight: bold;
+     color:black;
+ }
 
 .MenuBackground {
     background-color: #394046;
