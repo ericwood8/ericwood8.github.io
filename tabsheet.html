@@ -46,28 +46,50 @@
           <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
         </div>
         
-        <div id="London">
+        <div id="London" class="tabcontent">
           <h3>London</h3>
           <p>London is the capital city of England.</p>
         </div>
         
-        <div id="Paris">
+        <div id="Paris"  class="tabcontent">
           <h3>Paris</h3>
           <p>Paris is the capital of France.</p> 
         </div>
         
-        <div id="Tokyo">
+        <div id="Tokyo"  class="tabcontent">
           <h3>Tokyo</h3>
           <p>Tokyo is the capital of Japan.</p>
         </div>
         
         <script>
-        function openCity(evt, cityName) { 
-            document.getElementsByClassName("tabcontent") = "";   
-            document.getElementsByClassName("tabcontent") = document.getElementById(cityName);
-            evt.currentTarget.className += " active";
-        }
-        </script>
+            /** Function to open a city tab and hide other tabs
+            * @param {Event} evt - The event object that triggered the function
+            * @param {string} cityName - The name of the city tab to open
+            */
+            function openCity(evt, cityName) 
+            {
+               var i, tabcontent, tablinks;
+
+               // Hide all tab content
+               tabcontent = document.getElementsByClassName("tabcontent");
+               for (i = 0; i < tabcontent.length; i++) 
+               {
+                 tabcontent[i].style.display = "none"; // display of "none" = hides
+               }
+                      
+               // Remove the "active" class from all tab links
+               tablinks = document.getElementsByClassName("tablinks");
+               for (i = 0; i < tablinks.length; i++) 
+               {
+                 tablinks[i].className = tablinks[i].className.replace(" active", "");
+               }
+                      
+               document.getElementById(cityName).style.display = "block"; // shows the city
+               
+               // Add the "active" class to the clicked tab link
+               evt.currentTarget.className += " active";
+            }
+            </script>
     </section>  
 </body>
 </html>
