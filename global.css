@@ -23,6 +23,10 @@ a {
   color:white;
 }
 
+p {
+  color: black
+}
+
 .LinkInner {
   margin: -5px 5px;
 }
