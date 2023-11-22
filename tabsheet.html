@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Eric Wood</title>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+        <link rel="stylesheet" href="global.css">
+    </head>
+
+<body>
+    <section class="hero is-info">
+        <div class="hero-body">
+          <div class="container">
+            <div class="columns">
+              <div class="column">
+                 <div class="card-content">
+                    <a class="button" href="index.html">    Main Page </a>
+                    <a class="button" href="bio.html">      Bio </a>
+                    <a class="button" href="projects.html"> Projects </a>
+                    <a class="button" href="books.html">    Books </a>
+                    <a class="button" href="blog.html">     Blog </a>
+                    <a class="button" href="patents.html">  Patents </a>
+                    <a class="button" href="websites.html"> Websites </a>
+                    <a class="button" href="contact.html">  Contact Me </a>
+                 </div>
+              </div>  
+            </div>    
+          </div>
+        </div>
+    </section>
+
+    <section class="middle">
+        <h2>Tabs</h2>
+        <p>Click on the buttons inside the tabbed menu:</p>
+        
+        <div class="tab">
+          <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+          <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+          <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+        </div>
+        
+        <div id="London" class="tabcontent">
+          <h3>London</h3>
+          <p>London is the capital city of England.</p>
+        </div>
+        
+        <div id="Paris" class="tabcontent">
+          <h3>Paris</h3>
+          <p>Paris is the capital of France.</p> 
+        </div>
+        
+        <div id="Tokyo" class="tabcontent">
+          <h3>Tokyo</h3>
+          <p>Tokyo is the capital of Japan.</p>
+        </div>
+        
+        <script>
+        function openCity(evt, cityName) {
+          var i, tabcontent, tablinks;
+          
+          tabcontent = document.getElementsByClassName("tabcontent");
+          for (i = 0; i < tabcontent.length; i++) 
+          {
+            tabcontent[i].style.display = "none";
+          }
+          
+          tablinks = document.getElementsByClassName("tablinks");
+          for (i = 0; i < tablinks.length; i++) 
+          {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+          }
+          
+          document.getElementById(cityName).style.display = "block";
+          evt.currentTarget.className += " active";
+        }
+        </script>
+    </section>  
+</body>
+</html>
