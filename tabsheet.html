@@ -34,7 +34,7 @@
 
     <section class="middle">
         <h2>Tabs</h2>
-        
+
         <div class="tabcontent">
             <h3>London</h3>
             <p>London is the capital city of England.</p>
@@ -46,39 +46,33 @@
           <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
         </div>
         
-        <div id="London" class="tabcontent">
+        <div id="London">
           <h3>London</h3>
           <p>London is the capital city of England.</p>
         </div>
         
-        <div id="Paris" class="tabcontent">
+        <div id="Paris">
           <h3>Paris</h3>
           <p>Paris is the capital of France.</p> 
         </div>
         
-        <div id="Tokyo" class="tabcontent">
+        <div id="Tokyo">
           <h3>Tokyo</h3>
           <p>Tokyo is the capital of Japan.</p>
         </div>
         
         <script>
         function openCity(evt, cityName) {
-          var i, tabcontent, tablinks;
+          var i, tabcontent;
           
-          tabcontent = document.getElementsByClassName("tabcontent");
+          tabcontent = document.getElementById(cityName);
+          let result = "";
           for (i = 0; i < tabcontent.length; i++) 
           {
-            tabcontent[i].style.display = "none";
+            result += tabcontent[i].textContent; 
           }
-          
-          tablinks = document.getElementsByClassName("tablinks");
-          for (i = 0; i < tablinks.length; i++) 
-          {
-            tablinks[i].className = tablinks[i].className.replace(" active", "");
-          }
-          
-          document.getElementById(cityName).style.display = "block";
-          evt.currentTarget.className += " active";
+
+          tabcontent[i].textContent = result;
         }
         </script>
     </section>  
