@@ -52,7 +52,7 @@ html {
 .tab button {
   background-color: inherit;
   float: left;
-  border: none;
+  border:  1px solid #ccc;
   outline: none;
   cursor: pointer;
   padding: 14px 16px;
