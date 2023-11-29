@@ -17,14 +17,14 @@
           <div class="columns">
             <div class="column">
               <div class="card-content">
-                  <a class="button" href="bio.html">      Bio </a>
-                  <a class="button" href="projects.html"> Projects </a>
-                  <a class="button" href="books.html">    Books </a>
-                  <a class="button" href="talks.html">    Talks </a>
-                  <a class="button" href="blog.html">     Blog </a>
-                  <a class="button" href="patents.html">  Patents </a>
-                  <a class="button" href="websites.html"> Websites </a>
-                  <a class="button" href="contact.html">  Contact Me </a>
+                <button onclick="window.location.href='bio.html';"> Bio </button>
+                <button onclick="window.location.href='projects.html';"> Projects </button>
+                <button onclick="window.location.href='books.html';"> Books </button>
+                <button onclick="window.location.href='talks.html';"> Talks </button>
+                <button onclick="window.location.href='blog.html';"> Blog </button>
+                <button onclick="window.location.href='patents.html';"> Patents </button>
+                <button onclick="window.location.href='websites.html';"> Websites </button>
+                <button onclick="window.location.href='contact.html';"> Contact Me </button>
               </div>
             </div>  
           </div>    
@@ -61,5 +61,15 @@
         </div>
       </section>
 </body>
+
+<script>
+  var lineCounter= 0;
+  
+  function addRowToList() {
+   const list = document.getElementById("thelist");
+   lineCounter++;
+   list.innerHTML += `<li>Item ${lineCounter}</li>`;
+  }
+</script>
 
 </html>
