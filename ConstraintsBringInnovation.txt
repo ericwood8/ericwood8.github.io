@@ -109,7 +109,7 @@ What are Some Software Runtime Constraints?
 
 ======================================================
 
-[Write on Board –] 1) Does Minimalism = feature C? 2) Explain: “Mobile Forces You to Focus” 3) Kiss 4) Do we Over-Engineer? 
+[Write on Board -] 1) Does Minimalism = feature C? 2) Explain: "Mobile Forces You to Focus" 3) Kiss 4) Do we Over-Engineer? 
 
 [Talk]
 Early/Late:
@@ -125,7 +125,7 @@ Early/Late:
 
 ======================================================
 
-[Write on Board –] Theory of C: List Things to Optimize in Your Project?  Apply? 
+[Write on Board -] Theory of C: List Things to Optimize in Your Project?  Apply? 
  
 [Talk]
 Late/Refactoring stage: Theory of Constraints (in Lean Manufacturing):
@@ -143,7 +143,7 @@ Does TOC apply?
 
 ======================================================
 
-[Write on Board –]  C Led Learning Apply? Any other ways?
+[Write on Board -]  C Led Learning Apply? Any other ways?
  
 [Talk]
 Teaching: Constraint-led learning in sports: 
