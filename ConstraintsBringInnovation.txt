@@ -55,7 +55,7 @@ Artificial Constraints In the Arts (that we consider a creative endeavor)
     Example 3) - Newspaper blackout poems.
     Example 4) - Dr. Seuss limited himself to only 250 word vocabulary
     Example 5) - Matisse could not paint so did paper cutouts for last decade of his life.
-    Example 6) – Improv has an odd key word prompt (constraint to start off) and “Yes, And” attitude (that accepts constraint and expands).
+    Example 6) - Improv has an odd key word prompt (constraint to start off) and "Yes, And" attitude (that accepts constraint and expands).
 
 Why Do Artist Do These?
 
@@ -65,7 +65,7 @@ Do They Help or Help Creativity?
 
 ======================================================
 
-[Write on Board -] Reframe Cs? Audi – Math? Southwest – Math? Application?
+[Write on Board -] Reframe Cs? Audi? Southwest – Application?
 
 [Talk]
 Early Conceptional Stage to Late: 
@@ -75,19 +75,17 @@ Reframing the Constraints?
 1) Audi design a car for famous 24-hour Le Mans race. How could we win Le Mans if our car could NOT go faster than anyone else? Audi was optimizing for time. Audi introduced diesel cars, which allowed them to make fewer pit stops, which helped them win for the next 3 years.
 2) Southwest Airlines in 1970s had only 3 planes and 4 routes. Audi was optimizing for profit. They fixed problem by dealing with turnaround constraint (time of 10 minutes).  
 
-Does This Apply To Software?
-
 [Group Discussions]
-[Possible Math Answers] Only X time separated 1st and Y place, so can save X time doing other things.    More flights/day is more passengers flying so more $.
+Does This Apply To Software?
 
 ======================================================
 
-[Write on Board –] C:  
+[Write on Board] C:  
 1) Kept Cs?:  Twitter, Google, Minecraft, Zappos, Nintendo's Mario, Doom.
 2) Did solving a C sprout a new business?: Amazon, Netflix, Flickr, Slack, Paypal 
 3) Other Companies?
 
-Early – Company Examples:
+Early - Company Examples:
 
 [Group Discussions]
 
@@ -102,10 +100,10 @@ Early – Company Examples:
 
 [Talk]
 What are Some Software Development Constraints?
-   For Example- “Scope”, “Audience”
+   For Example- Scope, Audience
 
 What are Some Software Runtime Constraints?
-   For Example- "Software Dependencies", "Form Factor"
+   For Example- Software Dependencies, Form Factor
 
 [Group Discussions]
 
@@ -116,12 +114,12 @@ What are Some Software Runtime Constraints?
 [Talk]
 Early/Late:
    Minimalism – Focus on rendering the most important stuff first and stop there. You are done.  Maybe this approach this is really a constraint on features.
-  “Mobile Forces You to Focus” - Luke Wroblewsk
-   “Kiss” principal
+   Mobile Forces You to Focus - Luke Wroblewsk
+   Kiss principal
 
   Do We Over-Engineer?
      "For programmers, the cloud offered a chance to design distributed systems across hundreds of servers early in their careers. It is as if you were trained on Cessna and getting the keys to a 747 right out of flight school." [by John Allsopp]
-    Best use of 2.6 Meg – the average web page in 2024 *1* or the original Doom 1993 *2*?
+    Best use of 2.6 Meg - the average web page in 2024 *1* or the original Doom 1993 *2*?
 
 [Group Discussions]
 
