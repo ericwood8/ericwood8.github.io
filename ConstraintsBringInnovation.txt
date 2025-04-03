@@ -93,7 +93,7 @@ Early - Company Examples:
      #2 Answers: 1) Character string limit (original 140 character limit, 280 free acct, 25000 for premium to Twitter), 2) Constrained UI (ex. 1 – simple edit box with button and logo (Google)), 3) limited graphic constraint (Minecraft), 4) Returnable product (try before buy, Zappos, shoes via internet), 5) graphics and collision constraints (Mario by Nintendo, 8 bit, mustache so no lips, cap so no hair, overalls, blocky shape for collision), 6) 3-D graphic calculation limitations (Doom, don't calc the things behind the wall)
  
     #3 Answers: 
-   1) Amazon started as an online book store that later whose infrastructure was sellable as a service. 2) Netflix started out sending DVDs before streaming, 3 & 4) Both Flickr and Slack started out as a feature to a failed game called “A Game that Never Ends” 5) Paypal began as Confinity for people to make payments between their PDA's such as a palm pilot. 
+   1) Amazon started as an online book store that later whose infrastructure was sellable as a service. 2) Netflix started out sending DVDs before streaming, 3 & 4) Both Flickr and Slack started out as a feature to a failed game called "A Game that Never Ends" 5) Paypal began as Confinity for people to make payments between their PDA's such as a palm pilot. 
 
 
 [Write on Board -] List software development C?  List software runtime C?
@@ -113,7 +113,7 @@ What are Some Software Runtime Constraints?
 
 [Talk]
 Early/Late:
-   Minimalism – Focus on rendering the most important stuff first and stop there. You are done.  Maybe this approach this is really a constraint on features.
+   Minimalism - Focus on rendering the most important stuff first and stop there. You are done.  Maybe this approach this is really a constraint on features.
    Mobile Forces You to Focus - Luke Wroblewsk
    Kiss principal
 
@@ -159,7 +159,7 @@ How Apply In Software?
 [Write on Board - Direction?  1) List the C of the AI era? 2) How does this talk apply to you? 3) Homebrew Computer Club] 
  
 [Talk]
-Hard Section – Application:
+Hard Section - Application:
 Direction:  List the Constraints of the AI Era?
 
 How Does This Apply To You?
