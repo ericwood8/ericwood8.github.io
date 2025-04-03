@@ -1,0 +1,180 @@
+Constraints Bring Innovation Quicker
+
+[Write on Board - ]  C Bring I Quicker.  1) Wrong: a) C are bad b) If remove C, then creativity and I will thrive. 2) Why? 
+
+[Talk]
+Why Do This Talk?:   Hopefully this talk brings encouragement
+
+  Premise: 
+    My thesis statement is "Constraints Bring Innovation Quicker". My focus is software development.
+    “The more constraints one imposes, the more one frees one's self” - composer Igor Stravinsky
+
+  Definition:
+    US Marines - "Restraints are what we cannot do; and constraints are what we must do."
+
+  Common Assumptions (wrong): 
+    1) Constraints are BAD
+    2) If remove all rules and boundaries (constraints), then creativity and innovation will thrive. 
+ 
+   Analogy
+   Pretend that the goal is to win an Olympic gold medal in swimming.  Constraints are pool size of x by y, lack of true waves, innovation must work with 8 to 16 competitors, be in rules, and ethical. Past innovations in swimming might deal with shaving hair so water does not catch, fabrics and shapes of swim caps and trunks, counting to pace oneself, practicing breathing without losing speed, etc. If you remove all constraints and look to long distance swimming for innovations, then you could decide the best way to eat your meals quickly is to swim the fastest. Obviously the answer would not work. 
+
+  Understanding Constraints:
+   1) Constraints are boundaries for us to explore and push up against 
+   2) Constraints are limit moving in one direction, but not others, propelling us off well-worn paths.
+3) Constraints introduce conflicting/paradoxical situations (we want X, but also Y), we will work hard to resolve.
+
+[Group Discussions]
+
+[Write Answers on Board - ]  1) Focus from Scope, 2) Discard, 3) Realism, 4) Experiment, 5) Creative solution turn into Competitive Advantage 6) Positivity 7) Challenge 8) Overcome writer's block 9) Clear Boundaries 10) Reduced Decision Fatigue
+
+[Talk]
+  Why constraints bring innovation quicker:
+1. Forces focus by narrowing the scope.  (EX- Rifle scope and telescope)
+2. Discard unworkable solutions earlier prior to doing lots of work.
+3. Approach: Realism.  Accepting the extensive problem for what it is. 
+4. If feel like likely to fail, then more likely to plan for failures.  More likely to experiment and prototype. If felt like could easily do but needs effort, then more likely to just start and we will solve problems later.
+5. More likely a creative solution which can turn into a selling point or competitive advantage. 
+6. After overcoming the constraint and knowing you tackled a challenge can unlock positivity. 
+7. Limitations or restrictions become challenges rather than long repetitive road.
+8. Constraints can help break through creative inertia and facilitate the generation of new ideas. 
+9. Clear boundaries to work in
+10. Reduced Decision Fatigue
+
+======================================================
+
+[Write on Board - ]   2 Colors, haiku, blackout poems, Dr. Seuss, Matisse, Improv
+                                  1) Why do these? 2) Do they help or help creativity?
+
+[Talk]
+Early – Conceptional Stage
+Artificial Constraints In the Arts (that we consider a creative endeavor)  
+    Example 1) - Wife's cousin is an artist that draws image with 2 random colors
+    Example 2) – Haiku poems have constraint on form (5-7-5 syllables)
+    Example 3) - Newspaper blackout poems.
+    Example 4) - Dr. Seuss limited himself to only 250 word vocabulary
+    Example 5) - Matisse could not paint so did paper cutouts for last decade of his life.
+    Example 6) – Improv has an odd key word prompt (constraint to start off) and “Yes, And” attitude (that accepts constraint and expands).
+
+Why Do Artist Do These?
+
+Do They Help or Help Creativity?
+
+[Group Discussions]
+
+======================================================
+
+[Write on Board -] Reframe Cs? Audi – Math? Southwest – Math? Application?
+
+[Talk]
+Early – Conceptional Stage to Late: 
+How win in crowded field of competitors
+
+Reframing the Constraints?
+1) Audi design a car for famous 24-hour Le Mans race. How could we win Le Mans if our car could NOT go faster than anyone else? Audi was optimizing for time. Audi introduced diesel cars, which allowed them to make fewer pit stops, which helped them win for the next 3 years.
+2) Southwest Airlines in 1970s had only 3 planes and 4 routes. Audi was optimizing for profit. They fixed problem by dealing with turnaround constraint (time of 10 minutes).  
+
+Does This Apply To Software?
+
+[Group Discussions]
+[Possible Math Answers] Only X time separated 1st and Y place, so can save X time doing other things.    More flights/day is more passengers flying so more $.
+
+======================================================
+
+[Write on Board –] C:  
+1) Kept Cs?:  Twitter, Google, Minecraft, Zappos, Nintendo's Mario, Doom.
+2) Did solving a C sprout a new business?: Amazon, Netflix, Flickr, Slack, Paypal 
+3) Other Companies?
+
+Early – Company Examples:
+
+[Group Discussions]
+
+[Answers:]
+     #2 Answers: 1) Character string limit (original 140 character limit, 280 free acct, 25000 for premium to Twitter), 2) Constrained UI (ex. 1 – simple edit box with button and logo (Google)), 3) limited graphic constraint (Minecraft), 4) Returnable product (try before buy, Zappos, shoes via internet), 5) graphics and collision constraints (Mario by Nintendo, 8 bit, mustache so no lips, cap so no hair, overalls, blocky shape for collision), 6) 3-D graphic calculation limitations (Doom, don't calc the things behind the wall)
+ 
+    #3 Answers: 
+   1) Amazon started as an online book store that later whose infrastructure was sellable as a service. 2) Netflix started out sending DVDs before streaming, 3 & 4) Both Flickr and Slack started out as a feature to a failed game called “A Game that Never Ends” 5) Paypal began as Confinity for people to make payments between their PDA's such as a palm pilot. 
+
+
+[Write on Board -] List software development C?  List software runtime C?
+
+[Talk]
+What are Some Software Development Constraints?
+   For Example- “Scope”, “Audience”
+
+What are Some Software Runtime Constraints?
+   For Example- "Software Dependencies", "Form Factor"
+
+[Group Discussions]
+
+======================================================
+
+[Write on Board –] 1) Does Minimalism = feature C? 2) Explain: “Mobile Forces You to Focus” 3) Kiss 4) Do we Over-Engineer? 
+
+[Talk]
+Early/Late:
+   Minimalism – Focus on rendering the most important stuff first and stop there. You are done.  Maybe this approach this is really a constraint on features.
+  “Mobile Forces You to Focus” - Luke Wroblewsk
+   “Kiss” principal
+
+  Do We Over-Engineer?
+     "For programmers, the cloud offered a chance to design distributed systems across hundreds of servers early in their careers. It is as if you were trained on Cessna and getting the keys to a 747 right out of flight school." [by John Allsopp]
+    Best use of 2.6 Meg – the average web page in 2024 *1* or the original Doom 1993 *2*?
+
+[Group Discussions]
+
+======================================================
+
+[Write on Board –] Theory of C: List Things to Optimize in Your Project?  Apply? 
+ 
+[Talk]
+Late/Refactoring stage: Theory of Constraints (in Lean Manufacturing):
+1. Identify the C: Battery shortage
+2. Exploit the C: Max your battery use, explore alternative storage, or reduce waste in the process.
+3. Subordinate Operations: Adjust production scheduling or staffing to focus on remaining stages.
+4. Elevate the C: Alternative battery suppliers or invest in a new battery manufacturing process?
+5. Pick New C and Return to Step 1.
+
+List Things to Optimize in Your Project?  
+
+Does TOC apply? 
+[Group Discussions]
+
+
+======================================================
+
+[Write on Board –]  C Led Learning Apply? Any other ways?
+ 
+[Talk]
+Teaching: Constraint-led learning in sports: 
+   The idea of constraint led learning is that, given the correct restraints, the correct solutions for a given problem will naturally emerge. Example: Change up size, positioning, and distance of defenders for practicing basketball shots.
+
+How Apply In Software?
+   Years ago, we used terrible old computers to deploy for developer and QA testing. The idea was that the user's computers in the field were terrible so if could not perform there, it certainly would not work in the field.    
+
+[Group Discussions]
+
+======================================================
+
+[Write on Board – Direction?  1) List the C of the AI era? 2) How does this talk apply to you? 3) Homebrew Computer Club] 
+ 
+[Talk]
+Hard Section – Application:
+Direction:  List the Constraints of the AI Era?
+
+How Does This Apply To You?
+
+Homebrew Computer Club – this club spun off Apple. Perhaps this group will do the same.
+
+[Group Discussions]
+
+======================================================
+
+SOURCES:
+*1* = All Aug 1, 2024 Source: https://httparchive.org/
+Median Transfer Size for a Web Page: Desktop 2600 KB; Mobile 2300 KB  
+     (Desktop: Fonts 130 KB, Images 1000 KB, JavaScript 620 KB, rest HTML, etc.)
+*2* = Doom 1993 - 2.39 MB full program  Source: my research
+* 3 * = https://mauracharles.medium.com/power-in-your-problems-how-constraints-power-creativity-drive-innovation-ba1483f603d6
+
